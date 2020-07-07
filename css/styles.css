@@ -59,6 +59,14 @@ body {
   align-items: center;
   justify-content: center;
 }
+/* 
+.gif-image > div > video {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  overflow: hidden;
+} */
 
 .tagline {
   height: auto;
